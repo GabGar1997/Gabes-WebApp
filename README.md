@@ -1,3 +1,16 @@
+A responsive weather application built with vanilla JavaScript that allows users to search for weather information for cities around the world. The app displays current weather conditions along with a multi-day forecast in a clean and user-friendly interface.
+
+Live Demo
+
+View the live project here:
+
+https://gabgar1997.github.io/Gabes-WebApp/
+
+Features
+Search weather by city name
+View current weather conditions
+Display current temperature
+View humidity levels
 View precipitation information
 Display UV Index data
 Multi-day weather forecast
@@ -8,55 +21,3 @@ HTML5
 CSS3
 JavaScript (ES6+)
 Weather API
-What I Learned
-
-This project helped me practice:
-
-Fetching data from an external API
-Working with asynchronous JavaScript (fetch, promises, async/await)
-Parsing and displaying JSON data
-DOM manipulation
-Event handling
-Responsive web design
-Organizing code into reusable functions
-Project Structure
-Gabes-WebApp/
-│
-├── Images/
-├── WeatherAppHTML/
-├── WeatherAppCSS/
-├── WeatherAppJS/
-├── weather-app.html
-└── README.md
-How to Run Locally
-Clone the repository:
-git clone https://github.com/GabGar1997/Gabes-WebApp.git
-Navigate to the project folder:
-cd Gabes-WebApp
-Open weather-app.html in your browser.
-Future Improvements
-7-day forecast
-Geolocation support
-Weather alerts and warnings
-Search history
-Dark mode
-Temperature unit toggle (°F / °C)
-Loading and error states
-Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-![Weather App Screenshot](Images/weather-app-preview.png)
-Author
-
-Gabriel Garcia
-
-Aspiring Software Engineer focused on front-end development and JavaScript.
-
-GitHub: https://github.com/GabGar1997
-
-License
-
-This project is licensed under the MIT License.
