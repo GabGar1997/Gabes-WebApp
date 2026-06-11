@@ -1,11 +1,5 @@
 A responsive weather application built with vanilla JavaScript that allows users to search for weather information for cities around the world. The app displays current weather conditions along with a multi-day forecast in a clean and user-friendly interface.
 
-Live Demo
-
-View the live project here:
-
-https://gabgar1997.github.io/Gabes-WebApp/
-
 Features
 Search weather by city name
 View current weather conditions
