@@ -1,0 +1,1 @@
+A responsive weather application built with vanilla JavaScript that allows users to search for weather information for cities around the world. The app displays current weather conditions along with a multi-day forecast in a clean and user-friendly interface.
